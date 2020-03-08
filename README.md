@@ -9,7 +9,8 @@ For each paper, I create an issue which includes the abstract (in English), a li
 I already listed all (maybe) papers published in famous HCI conferences (CHI'13~, UIST'13~, ASSETS'16~).
 
 I will continue to add new papers in the future.  
-**I would be so happy if anyone added a new paper or some comments!!**
+**I would be so happy if anyone added a new paper or some comments!!**  
+(You definitely don't need to write a short summary in Japanese.)
 
 ## How to Use
 - You can search for papers by using some keywords.
