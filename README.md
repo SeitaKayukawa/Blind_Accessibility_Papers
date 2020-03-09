@@ -19,6 +19,8 @@ I will continue to add new papers in the future.
 ## Label List
 **Feel free to add a new label!!**  
 
+If you want to manage labels, please let me know via an issue comment. I will add you as a collaborator.
+
 Lable| Conference Name 
 -------|------
 [`ASSETS`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/ASSETS)|ACM SIGACCESS Conference on Computers and Accessibility 
@@ -86,6 +88,11 @@ CHI (2013~), UIST (2013~), ASSETS (2016~)など著名なHCI会議の口頭発表
 
 
 ## ラベル一覧
+ラベルの追加や編集もお気軽にどうぞ  
+
+もし，ラベルの付与や編集，追加を行いたい方は，issueのコメントを通して私にご連絡ください．Collaboratorに招待し，labelの編集権限を付与します．
+
+
 会議名| 正式名称 
 -------|------
 [`ASSETS`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/ASSETS)|ACM SIGACCESS Conference on Computers and Accessibility 
