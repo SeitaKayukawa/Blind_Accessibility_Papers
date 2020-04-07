@@ -4,9 +4,9 @@
   
 This repository lists **HCI papers about assistive technologies for visual impairments**.  
 
-For each paper, I create an issue which includes the abstract (in English), a link to the paper, labels of field (e.g. `Localization`, `screen reader`, `Tactile`, and so on), figures, and a short summary (in Japanese).
+For each paper, We create an issue which includes the abstract (in English), a link to the paper, labels of the research field (e.g. `Localization`, `screen reader`, `Tactile`, and so on), figures, and a short summary (in Japanese).
 
-I already listed all (maybe) papers published in famous HCI conferences (CHI'13~, UIST'13~, ASSETS'16~).
+We already listed all (maybe) papers published in famous HCI conferences (CHI'13~, UIST'13~, ASSETS'16~)!
 
 I will continue to add new papers in the future.  
 **I would be so happy if anyone added a new paper or some comments!!**  
@@ -130,8 +130,9 @@ CHI (2013~), UIST (2013~), ASSETS (2016~)など著名なHCI会議の口頭発表
 [`Survey`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Survey)|視覚障害者支援に関する研究のサーベイ論文
 
 ## 記事投稿歓迎
-- 論文を見つけたら誰でも新しくissueを作っていただいて結構です（めちゃくちゃ嬉しいです）．  
-- (記事見ていただければわかると思いますが)現状の日本語まとめはかなり適当なので，ハードルは全く感じなくてOKです．  
+- 論文を見つけたら誰でも新しくissueを作っていただいて結構です（めちゃくちゃ嬉しいです）． 
+- HCI論文にかかわらず，視覚障害者支援に関係する論文であればなんでも大歓迎です．
+- (記事見ていただければわかると思いますが)現状の日本語まとめはかなり適当なので，ハードルは全く感じなくてOKです． 
 - なんなら論文名のissueを作るだけでも全然構わないです（見つけ次第僕が追記しておきます）．
 
 
