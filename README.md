@@ -58,6 +58,7 @@ Keyword| Description
 [`Developer`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Developer)|Research for developers with visual impairments
 [`VAPA`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/VAPA)|Research about Voice-Activated Personal Assistant (e.g. Siri)
 [`Screen Reader`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Screen%20Reader)|Paper that proposed a new screen reader system
+[`Web Accessibility`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Web%20Accessibility)|Research about web interface 
 [`Captioning`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Captioning)|Research about Captioning
 ||
 [`Discussion/Investigation`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Discussion%2FInvestigation)|A paper which discussed or investigated the relationship between people with visual impairments and technologies
@@ -138,6 +139,7 @@ CHI (2013~), UIST (2013~), ASSETS (2016~)など著名なHCI会議の口頭発表
 [`Developer`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Developer)|視覚障害者向けの開発ツールに関する研究
 [`VAPA`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/VAPA)|Siriのように音声で指示ができるシステム(Voice-Activated Personal Assistant)に関する研究 
 [`Screen Reader`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Screen%20Reader)|スマホやパソコンのディスプレイを読み上げてくれるシステムに関する研究
+[`Web Accessibility`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Web%20Accessibility)|Webインタフェースに関する研究 
 [`Captioning`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Captioning)|画像を言語で説明して支援する研究 
 ||
 [`Discussion/Investigation`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Discussion%2FInvestigation)|視覚障害者と社会の関わりについて調査した研究 
