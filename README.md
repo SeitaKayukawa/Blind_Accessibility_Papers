@@ -27,6 +27,7 @@ Lable| Conference Name
 [`CHI`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/CHI)|ACM CHI Conference on Human Factors in Computing Systems 
 [`UIST`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/UIST)|ACM symposium on User Interface Software and Technology 
 [`TACCESS`](https://github.com/Wotipati/Blind_Accessibility_Papers/issues?q=is%3Aissue+is%3Aopen+label%3ATACCESS)|ACM Transactions on Accessible Computing
+[`TOCHI`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/TOCHI)|ACM Transactions on Computer-Human Interaction
 [`MobileHCI`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/MobileHCI)|ACM Conference on Human-Computer Interaction with Mobile Devices and Services 
 [`UbiComp`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/UbiComp)|ACM Conference on Pervasive and Ubiquitous Computing
 [`W4A`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/W4A)|International Web for All Conference 
@@ -108,6 +109,7 @@ CHI (2013~), UIST (2013~), ASSETS (2016~)など著名なHCI会議の口頭発表
 [`CHI`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/CHI)|ACM CHI Conference on Human Factors in Computing Systems 
 [`UIST`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/UIST)|ACM symposium on User Interface Software and Technology 
 [`TACCESS`](https://github.com/Wotipati/Blind_Accessibility_Papers/issues?q=is%3Aissue+is%3Aopen+label%3ATACCESS)|ACM Transactions on Accessible Computing
+[`TOCHI`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/TOCHI)|ACM Transactions on Computer-Human Interaction
 [`MobileHCI`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/MobileHCI)|ACM Conference on Human-Computer Interaction with Mobile Devices and Services 
 [`UbiComp`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/UbiComp)|ACM Conference on Pervasive and Ubiquitous Computing
 [`W4A`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/W4A)|International Web for All Conference 
