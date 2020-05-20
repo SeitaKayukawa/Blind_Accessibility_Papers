@@ -67,6 +67,11 @@ Keyword| Description
 [`TVI`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/TVI)|Research for Teachers of the Visually Impaired (TVI)
 [`Survey`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Survey)|A survey paper about assistive technologies for visual impairments
 
+### Contributors
+Thank you for your contribution!!
+- [@yutaroyamanaka](https://github.com/yutaroyamanaka)
+- [@hironobutakagi](https://github.com/hironobutakagi)
+- [@chestnutforestlabo](https://github.com/chestnutforestlabo)
 
 ## はじめに
 Human-Computer Interactionに関する学会で発表された，**視覚障害者支援に関する研究論文**をまとめています．  
