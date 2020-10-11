@@ -4,17 +4,21 @@
   
 This repository lists **HCI papers about assistive technologies for visual impairments**.  
 
-For each paper, We create an issue which includes the abstract (in English), a link to the paper, labels of the research field (e.g. `Localization`, `screen reader`, `Tactile`, and so on), figures, and a short summary (in Japanese).
+For each paper, We create an issue which includes the abstract (in English), a link to the paper, labels of the research field (e.g. `Localization`, `Screen Reader`, `Collision Avoidance`, and so on), figures, and a short summary (in Japanese).
 
-We already listed all (maybe) papers published in famous HCI conferences (CHI'13~, UIST'13~, ASSETS'16~)!
+We already listed all (maybe) papers published in famous HCI conferences (CHI'13~20, UIST'13~19, ASSETS'16~19)!
 
 I will continue to add new papers in the future.  
 **I would be so happy if anyone added a new paper or some comments!!**  
 (You definitely don't need to write a short summary in Japanese.)
 
+## What’s New: 
+- 2020.10.11: We added [21 papers published in CHI'20](https://github.com/Wotipati/Blind_Accessibility_Papers/issues?q=is%3Aissue+is%3Aopen+label%3ACHI+label%3A2020)! :)
+- 2019.10.27: We added [20 papers published in CHI'19](https://github.com/Wotipati/Blind_Accessibility_Papers/issues?q=is%3Aissue+is%3Aopen+label%3ACHI+label%3A2019)! :D
+
 ## How to Use
-- You can search for papers by using some keywords.
-- You can narrow the paper list by using labels.
+- You can search for papers by using some **keywords**.
+- You can narrow the paper list by using **labels**.
 
 ## Label List
 **Feel free to add a new label!!**  
