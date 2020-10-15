@@ -25,25 +25,6 @@ I will continue to add new papers in the future.
 
 If you want to manage labels, please let me know via an issue comment. I will add you as a collaborator.
 
-Lable| Conference Name 
--------|------
-[`ASSETS`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/ASSETS)|ACM SIGACCESS Conference on Computers and Accessibility 
-[`CHI`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/CHI)|ACM CHI Conference on Human Factors in Computing Systems 
-[`UIST`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/UIST)|ACM symposium on User Interface Software and Technology 
-[`TACCESS`](https://github.com/Wotipati/Blind_Accessibility_Papers/issues?q=is%3Aissue+is%3Aopen+label%3ATACCESS)|ACM Transactions on Accessible Computing
-[`TOCHI`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/TOCHI)|ACM Transactions on Computer-Human Interaction
-[`MobileHCI`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/MobileHCI)|ACM Conference on Human-Computer Interaction with Mobile Devices and Services 
-[`UbiComp`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/UbiComp)|ACM Conference on Pervasive and Ubiquitous Computing
-[`W4A`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/W4A)|International Web for All Conference 
-[`ECCV`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/ECCV)|IEEE European Conference on Computer Vision 
-[`CSCI`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/CSCI)|IEEE International Conference on Computational Science and Computational Intelligence 
-[`ISAECT`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/ISAECT)|IEEE International Symposium on Advanced Electrical and Communication Technologies 
-[`UAIS`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/UAIS)|Universal Access in the Information Society 
-[`MobiQuitous`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/MobiQuitous)|International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services 
-[`HCIS`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/HCIS)|Human-centric Computing and Information Sciences
-[`FHN`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/FHN)|Frontiers in Human Neuroscience 
-
-
 Keyword| Description
 -------|------
 [`Audio`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Audio)|Research using an audio interface
@@ -71,6 +52,25 @@ Keyword| Description
 [`Low Vision`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Low%20Vision)|A paper which proposed an assistive system for people with low-vision 
 [`TVI`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/TVI)|Research for Teachers of the Visually Impaired (TVI)
 [`Survey`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Survey)|A survey paper about assistive technologies for visual impairments
+
+Lable| Conference Name 
+-------|------
+[`ASSETS`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/ASSETS)|ACM SIGACCESS Conference on Computers and Accessibility 
+[`CHI`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/CHI)|ACM CHI Conference on Human Factors in Computing Systems 
+[`UIST`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/UIST)|ACM symposium on User Interface Software and Technology 
+[`TACCESS`](https://github.com/Wotipati/Blind_Accessibility_Papers/issues?q=is%3Aissue+is%3Aopen+label%3ATACCESS)|ACM Transactions on Accessible Computing
+[`TOCHI`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/TOCHI)|ACM Transactions on Computer-Human Interaction
+[`MobileHCI`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/MobileHCI)|ACM Conference on Human-Computer Interaction with Mobile Devices and Services 
+[`UbiComp`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/UbiComp)|ACM Conference on Pervasive and Ubiquitous Computing
+[`W4A`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/W4A)|International Web for All Conference 
+[`ECCV`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/ECCV)|IEEE European Conference on Computer Vision 
+[`CSCI`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/CSCI)|IEEE International Conference on Computational Science and Computational Intelligence 
+[`ISAECT`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/ISAECT)|IEEE International Symposium on Advanced Electrical and Communication Technologies 
+[`UAIS`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/UAIS)|Universal Access in the Information Society 
+[`MobiQuitous`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/MobiQuitous)|International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services 
+[`HCIS`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/HCIS)|Human-centric Computing and Information Sciences
+[`FHN`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/FHN)|Frontiers in Human Neuroscience 
+
 
 ### Contributors
 Thank you for your contribution!!
@@ -111,26 +111,6 @@ CHI (2013~), UIST (2013~), ASSETS (2016~)など著名なHCI会議の口頭発表
 ラベルの追加や編集もお気軽にどうぞ  
 
 もし，ラベルの付与や編集，追加を行いたい方は，issueのコメントを通して私にご連絡ください．Collaboratorに招待し，labelの編集権限を付与します．
-
-
-会議名| 正式名称 
--------|------
-[`ASSETS`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/ASSETS)|ACM SIGACCESS Conference on Computers and Accessibility 
-[`CHI`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/CHI)|ACM CHI Conference on Human Factors in Computing Systems 
-[`UIST`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/UIST)|ACM symposium on User Interface Software and Technology 
-[`TACCESS`](https://github.com/Wotipati/Blind_Accessibility_Papers/issues?q=is%3Aissue+is%3Aopen+label%3ATACCESS)|ACM Transactions on Accessible Computing
-[`TOCHI`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/TOCHI)|ACM Transactions on Computer-Human Interaction
-[`MobileHCI`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/MobileHCI)|ACM Conference on Human-Computer Interaction with Mobile Devices and Services 
-[`UbiComp`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/UbiComp)|ACM Conference on Pervasive and Ubiquitous Computing
-[`W4A`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/W4A)|International Web for All Conference 
-[`ECCV`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/ECCV)|IEEE European Conference on Computer Vision 
-[`CSCI`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/CSCI)|IEEE International Conference on Computational Science and Computational Intelligence 
-[`ISAECT`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/ISAECT)|IEEE International Symposium on Advanced Electrical and Communication Technologies 
-[`UAIS`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/UAIS)|Universal Access in the Information Society 
-[`MobiQuitous`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/MobiQuitous)|International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services 
-[`HCIS`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/HCIS)|Human-centric Computing and Information Sciences
-[`FHN`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/FHN)|Frontiers in Human Neuroscience 
-
 
 キーワード| 説明 
 -------|------
