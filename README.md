@@ -62,6 +62,7 @@ Lable| Conference Name
 [`TOCHI`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/TOCHI)|ACM Transactions on Computer-Human Interaction
 [`MobileHCI`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/MobileHCI)|ACM Conference on Human-Computer Interaction with Mobile Devices and Services 
 [`UbiComp`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/UbiComp)|ACM Conference on Pervasive and Ubiquitous Computing
+[`ICMI`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/ICMI)|ACM International Conference on Multimodal Interaction 
 [`W4A`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/W4A)|International Web for All Conference 
 [`ECCV`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/ECCV)|IEEE European Conference on Computer Vision 
 [`CSCI`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/CSCI)|IEEE International Conference on Computational Science and Computational Intelligence 
