@@ -13,6 +13,7 @@ I will continue to add new papers in the future.
 (You definitely don't need to write a short summary in Japanese.)
 
 ## What’s New: 
+- 2020.10.31: We added [21 papers published in ASSETS'20](https://github.com/Wotipati/Blind_Accessibility_Papers/issues?q=is%3Aissue+is%3Aopen+label%3AASSETS+label%3A2020)!
 - 2020.10.11: We added [21 papers published in CHI'20](https://github.com/Wotipati/Blind_Accessibility_Papers/issues?q=is%3Aissue+is%3Aopen+label%3ACHI+label%3A2020)! :)
 - 2019.10.27: We added [20 papers published in CHI'19](https://github.com/Wotipati/Blind_Accessibility_Papers/issues?q=is%3Aissue+is%3Aopen+label%3ACHI+label%3A2019)! :D
 
