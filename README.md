@@ -55,7 +55,7 @@ Keyword| Description
 [`TVI`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/TVI)|Research for Teachers of the Visually Impaired (TVI)
 [`Survey`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Survey)|A survey paper about assistive technologies for visual impairments
 
-Lable| Conference Name 
+Lable| Conference/Journal Name 
 -------|------
 [`ASSETS`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/ASSETS)|ACM SIGACCESS Conference on Computers and Accessibility 
 [`CHI`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/CHI)|ACM CHI Conference on Human Factors in Computing Systems 
@@ -73,7 +73,7 @@ Lable| Conference Name
 [`MobiQuitous`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/MobiQuitous)|International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services 
 [`HCIS`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/HCIS)|Human-centric Computing and Information Sciences
 [`FHN`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/FHN)|Frontiers in Human Neuroscience 
-
+[`Sensors`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Sensors)|Journal on the science and technology of sensors
 
 ### Contributors
 Thank you for your contribution!!
