@@ -41,7 +41,6 @@ Keyword| Description
 [`Localization`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Localization)|Research which tries to localize the user's position
 [`Recognition`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Recognition)|Research which helps blind users to recognize the surrounding information
 [`Map`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Map)|Papers that proposed a new map for blind people
-[`Museum`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Museum)|Assistive Technologies toward accessible museum for PVI
 ||
 [`Input Method`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Input%20Method)|Papers that proposed a new input/interaction method
 [`Developer`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Developer)|Research for developers with visual impairments
@@ -130,7 +129,6 @@ CHI (2013~), UIST (2013~), ASSETS (2016~)など著名なHCI会議の口頭発表
 [`Localization`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Localization)|視覚障害者の位置や方向推定を行う研究 
 [`Recognition`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Recognition)|周囲の物体や状況などを認識し，ユーザにフィードバックする研究 
 [`Map`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Map)|視覚障害者が使用する地図に関する研究
-[`Museum`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Museum)|美術館/博物館をアクセシブルにするための研究
 ||
 [`Input Method`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Input%20Method)|新たな入力方法や操作方法に関する研究
 [`Developer`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Developer)|視覚障害者向けの開発ツールに関する研究
