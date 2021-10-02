@@ -50,10 +50,10 @@ Keyword| Description
 [`Captioning`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Captioning)|Research about Captioning
 [`RSA`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/RSA)|Research about Remote Sighted Assistance
 ||
-[`Survey/Discussion`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Survey%2FDiscussion)|A paper which discussed or investigated blind people's experience
+[`Survey Paper`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Survey%20Paper)|A survey paper about assistive technologies for visual impairments
+[`Investigation/Discussion`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Investigation%2FDiscussion)|A paper which discussed or investigated blind people's experience
 [`Low Vision`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Low%20Vision)|A paper which proposed an assistive system for people with low-vision 
 [`TVI`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/TVI)|Research for Teachers of the Visually Impaired (TVI)
-[`Survey`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Survey)|A survey paper about assistive technologies for visual impairments
 
 Lable| Conference/Journal Name 
 -------|------
@@ -139,10 +139,11 @@ CHI (2013~), UIST (2013~), ASSETS (2016~)など著名なHCI会議の口頭発表
 [`Captioning`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Captioning)|画像を言語で説明して支援する研究 
 [`RSA`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/RSA)|視覚障害者を遠隔から支援する技術
 ||
-[`Survey/Discussion`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Survey%2FDiscussion)|視覚障害者の体験について調査した研究 
+[`Investigation/Discussion`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Investigation%2FDiscussion)|視覚障害者の体験について調査した研究 
+[`Survey Paper`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Survey%20Paper)|視覚障害者支援に関する研究のサーベイ論文
 [`Low Vision`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Low%20Vision)|低視力者を対象とした研究 
 [`TVI`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/TVI)|視覚障害者を教える先生(Teachers of the Visually Impaired)に関する研究 
-[`Survey`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Survey)|視覚障害者支援に関する研究のサーベイ論文
+
 
 ## 記事投稿歓迎
 - 論文を見つけたら誰でも新しくissueを作っていただいて結構です（めちゃくちゃ嬉しいです）． 
