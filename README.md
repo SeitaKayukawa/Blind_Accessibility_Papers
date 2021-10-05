@@ -78,6 +78,8 @@ Lable| Conference/Journal Name
 
 ### Contributors
 Thank you for your contribution!!
+- [@Wotipati](https://github.com/Wotipati)
+- [@XiyueWang-Miraikan](https://github.com/XiyueWang-Miraikan)
 - [@yutaroyamanaka](https://github.com/yutaroyamanaka)
 - [@hironobutakagi](https://github.com/hironobutakagi)
 - [@chestnutforestlabo](https://github.com/chestnutforestlabo)
