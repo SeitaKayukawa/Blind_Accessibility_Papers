@@ -6,17 +6,17 @@ This repository lists **HCI papers about assistive technologies for visual impai
 
 For each paper, We create an issue which includes the abstract (in English), a link to the paper, labels of the research field (e.g. [`Localization`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Localization), [`Screen Reader`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Screen%20Reader), [`Collision Avoidance`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Collision%20Avoidance), and so on), figures, and a short summary (in Japanese).
 
-We already listed all (maybe) papers published in famous HCI conferences (CHI'13-20, UIST'13-19, ASSETS'16-20)!
 
 I will continue to add new papers in the future.  
 **I would be so happy if anyone added a new paper or some comments!!**  
 (You definitely don't need to write a short summary in Japanese.)
 
 ## What’s New: 
-- 2021.7.6: We added [28 papers published in CHI'21](https://github.com/Wotipati/Blind_Accessibility_Papers/issues?q=is%3Aissue+is%3Aopen+label%3ACHI+label%3A2021) :)
-- 2020.10.31: We added [21 papers published in ASSETS'20](https://github.com/Wotipati/Blind_Accessibility_Papers/issues?q=is%3Aissue+is%3Aopen+label%3AASSETS+label%3A2020)!
-- 2020.10.11: We added [21 papers published in CHI'20](https://github.com/Wotipati/Blind_Accessibility_Papers/issues?q=is%3Aissue+is%3Aopen+label%3ACHI+label%3A2020)! :)
-- 2019.10.27: We added [20 papers published in CHI'19](https://github.com/Wotipati/Blind_Accessibility_Papers/issues?q=is%3Aissue+is%3Aopen+label%3ACHI+label%3A2019)! :D
+- 2021.11.2: We added [15 papers published in ASSETS '20](https://github.com/Wotipati/Blind_Accessibility_Papers/issues?q=is%3Aopen+label%3AASSETS+label%3A2021)
+- 2021.7.6: We added [28 papers published in CHI '21](https://github.com/Wotipati/Blind_Accessibility_Papers/issues?q=is%3Aissue+is%3Aopen+label%3ACHI+label%3A2021) :)
+- 2020.10.31: We added [21 papers published in ASSETS '20](https://github.com/Wotipati/Blind_Accessibility_Papers/issues?q=is%3Aissue+is%3Aopen+label%3AASSETS+label%3A2020)!
+- 2020.10.11: We added [21 papers published in CHI '20](https://github.com/Wotipati/Blind_Accessibility_Papers/issues?q=is%3Aissue+is%3Aopen+label%3ACHI+label%3A2020)! :)
+- 2019.10.27: We added [20 papers published in CHI '19](https://github.com/Wotipati/Blind_Accessibility_Papers/issues?q=is%3Aissue+is%3Aopen+label%3ACHI+label%3A2019)! :D
 
 ## How to Use
 - You can search for papers by using some **keywords**.
