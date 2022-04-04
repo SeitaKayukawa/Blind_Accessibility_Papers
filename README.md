@@ -54,7 +54,7 @@ Keyword| Description
 [`Investigation/Discussion`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Investigation%2FDiscussion)|A paper which discussed or investigated blind people's experience
 [`Low Vision`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Low%20Vision)|A paper which proposed an assistive system for people with low-vision 
 [`TVI`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/TVI)|Research for Teachers of the Visually Impaired (TVI)
-[`3D Print/Scan`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/TVI)|Research using 3D printing or 3D scanning technologies
+[`Print/Scan 3D`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/TVI)|Research using 3D printing or 3D scanning technologies
 
 Lable| Conference/Journal Name 
 -------|------
