@@ -4,7 +4,7 @@
   
 This repository lists **HCI papers about assistive technologies for visual impairments**.  
 
-For each paper, We create an issue which includes the abstract (in English), a link to the paper, labels of the research field (e.g. [`Localization`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Localization), [`Screen Reader`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Screen%20Reader), [`Collision Avoidance`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Collision%20Avoidance), and so on), figures, and a short summary (in Japanese).
+For each paper, We create an issue which includes the abstract (in English), a link to the paper, labels of the research field (e.g. https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Localization, https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Screen%20Reader, https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Collision%20Avoidance, and so on), figures, and a short summary (in Japanese).
 
 
 I will continue to add new papers in the future.  
@@ -29,32 +29,33 @@ If you want to manage labels, please let me know via an issue comment. I will ad
 
 Keyword| Description
 -------|------
-[`Audio`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Audio)|Research using an audio interface
-[`Tactile`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Tactile)|Research using a tactile interface
-[`Robotics`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Robotics)|Research using a robotic system
-[`AR/VR`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/AR%2FVR)|Reserach using AR/VR technologies
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Audio|Research using an audio interface
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Tactile|Research using a tactile interface
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Robotics|Research using a robotic system
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/AR%2FVR|Reserach using AR/VR technologies
 ||
-[`Mobility`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Mobility)|Research which helps blind people walk in the real-world
-[`Global Navigation`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Global%20Navigation)|Papers that proposed a turn-by-turn navigation system.
-[`Local Navigation`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Local%20Navigation)|Research which helps blind users approach a specific object such as a door and chair
-[`Collision Avoidance`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Collision%20Avoidance)|Papers that proposed a collision-avoidance system
-[`Localization`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Localization)|Research which tries to localize the user's position
-[`Recognition`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Recognition)|Research which helps blind users to recognize the surrounding information
-[`Map`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Map)|Papers that proposed a new map for blind people
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Mobility|Research which helps blind people walk in the real-world
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Global%20Navigation|Papers that proposed a turn-by-turn navigation system.
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Local%20Navigation|Research which helps blind users approach a specific object such as a door and chair
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Collision%20Avoidance|Papers that proposed a collision-avoidance system
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Localization|Research which tries to localize the user's position
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Recognition|Research which helps blind users to recognize the surrounding information
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Map|Papers that proposed a new map for blind people
 ||
-[`Input Method`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Input%20Method)|Papers that proposed a new input/interaction method
-[`Developer`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Developer)|Research for developers with visual impairments
-[`VAPA`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/VAPA)|Research about Voice-Activated Personal Assistant (e.g. Siri)
-[`Screen Reader`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Screen%20Reader)|Paper that proposed a new screen reader system
-[`Web Accessibility`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Web%20Accessibility)|Research about web interface 
-[`Captioning`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Captioning)|Research about Captioning
-[`RSA`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/RSA)|Research about Remote Sighted Assistance
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Input%20Method|Papers that proposed a new input/interaction method
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Developer|Research for developers with visual impairments
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/VAPA|Research about Voice-Activated Personal Assistant (e.g. Siri)
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Screen%20Reader|Paper that proposed a new screen reader system
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Web%20Accessibility|Research about web interface 
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Captioning|Research about Captioning
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/RSA|Research about Remote Sighted Assistance
 ||
-[`Survey Paper`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Survey%20Paper)|A survey paper about assistive technologies for visual impairments
-[`Investigation/Discussion`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Investigation%2FDiscussion)|A paper which discussed or investigated blind people's experience
-[`Low Vision`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Low%20Vision)|A paper which proposed an assistive system for people with low-vision 
-[`TVI`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/TVI)|Research for Teachers of the Visually Impaired (TVI)
-[`Scan 3D`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/TVI)|Research using 3D scan technologies
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Survey%20Paper|A survey paper about assistive technologies for visual impairments
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Investigation%2FDiscussion|A paper which discussed or investigated blind people's experience
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Low%20Vision|A paper which proposed an assistive system for people with low-vision 
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/TVI|Research for Teachers of the Visually Impaired (TVI)
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Scan%203D|Research using 3D scan technologies
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Sports|Research about Sports Asistance
 
 Lable| Conference/Journal Name 
 -------|------
@@ -122,33 +123,33 @@ CHI (2013~), UIST (2013~), ASSETS (2016~)など著名なHCI会議の口頭発表
 
 キーワード| 説明 
 -------|------
-[`Audio`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Audio)|音声によるインタフェースを用いた研究
-[`Tactile`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Tactile)|触覚によるインタフェースを用いた研究
-[`Robotics`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Robotics)|ロボットを用いた研究
-[`AR/VR`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/AR%2FVR)|ARやVRを用いた研究
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Audio|音声によるインタフェースを用いた研究
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Tactile|触覚によるインタフェースを用いた研究
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Robotics|ロボットを用いた研究
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/AR%2FVR|ARやVRを用いた研究
 ||
-[`Mobility`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Mobility)|実世界での移動を支援する研究
-[`Global Navigation`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Global%20Navigation)|曲がり角などで目的地への経路を案内する研究
-[`Local Navigation`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Local%20Navigation)|ドアや椅子など特定の物体や場所へ案内する研究
-[`Collision Avoidance`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Collision%20Avoidance)|障害物との衝突回避を支援する研究
-[`Localization`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Localization)|視覚障害者の位置や方向推定を行う研究 
-[`Recognition`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Recognition)|周囲の物体や状況などを認識し，ユーザにフィードバックする研究 
-[`Map`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Map)|視覚障害者が使用する地図に関する研究
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Mobility|実世界での移動を支援する研究
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Global%20Navigation|曲がり角などで目的地への経路を案内する研究
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Local%20Navigation|ドアや椅子など特定の物体や場所へ案内する研究
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Collision%20Avoidance|障害物との衝突回避を支援する研究
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Localization|視覚障害者の位置や方向推定を行う研究 
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Recognition|周囲の物体や状況などを認識し，ユーザにフィードバックする研究 
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Map|視覚障害者が使用する地図に関する研究
 ||
-[`Input Method`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Input%20Method)|新たな入力方法や操作方法に関する研究
-[`Developer`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Developer)|視覚障害者向けの開発ツールに関する研究
-[`VAPA`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/VAPA)|Siriのように音声で指示ができるシステム(Voice-Activated Personal Assistant)に関する研究 
-[`Screen Reader`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Screen%20Reader)|スマホやパソコンのディスプレイを読み上げてくれるシステムに関する研究
-[`Web Accessibility`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Web%20Accessibility)|Webインタフェースに関する研究 
-[`Captioning`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Captioning)|画像を言語で説明して支援する研究 
-[`RSA`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/RSA)|視覚障害者を遠隔から支援する技術
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Input%20Method|新たな入力方法や操作方法に関する研究
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Developer|視覚障害者向けの開発ツールに関する研究
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/VAPA|Siriのように音声で指示ができるシステム(Voice-Activated Personal Assistant)に関する研究 
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Screen%20Reader|スマホやパソコンのディスプレイを読み上げてくれるシステムに関する研究
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Web%20Accessibility|Webインタフェースに関する研究 
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Captioning|画像を言語で説明して支援する研究 
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/RSA|視覚障害者を遠隔から支援する技術
 ||
-[`Investigation/Discussion`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Investigation%2FDiscussion)|視覚障害者の体験について調査した研究 
-[`Survey Paper`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Survey%20Paper)|視覚障害者支援に関する研究のサーベイ論文
-[`Low Vision`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Low%20Vision)|低視力者を対象とした研究 
-[`TVI`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/TVI)|視覚障害者を教える先生(Teachers of the Visually Impaired)に関する研究 
-[`Scan 3D`](https://github.com/Wotipati/Blind_Accessibility_Papers/labels/TVI)|3Dスキャンを用いた研究
-
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Investigation%2FDiscussion|視覚障害者の体験について調査した研究 
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Survey%20Paper|視覚障害者支援に関する研究のサーベイ論文
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Low%20Vision|低視力者を対象とした研究 
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/TVI|視覚障害者を教える先生(Teachers of the Visually Impaired)に関する研究 
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Scan%203D|3Dスキャンを用いた研究
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Sports|視覚障害者のスポーツ支援に関する研究
 
 ## 記事投稿歓迎
 - 論文を見つけたら誰でも新しくissueを作っていただいて結構です（めちゃくちゃ嬉しいです）． 
