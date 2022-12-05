@@ -54,6 +54,7 @@ https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Sports|Research ab
 ||
 https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Survey%20Paper|A survey paper about assistive technologies for visual impairments
 https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Investigation%2FDiscussion|A paper which discussed or investigated blind people's experience
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Case%20Study|A detailed study of a specific subject, such as a person, group or event
 https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Low%20Vision|A paper which proposed an assistive system for people with low-vision 
 https://github.com/Wotipati/Blind_Accessibility_Papers/labels/TVI|Research for Teachers of the Visually Impaired (TVI)
 
