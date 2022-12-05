@@ -33,6 +33,7 @@ https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Audio|Research usi
 https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Tactile|Research using a tactile interface
 https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Robotics|Research using a robotic system
 https://github.com/Wotipati/Blind_Accessibility_Papers/labels/AR%2FVR|Reserach using AR/VR technologies
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Scan%203D|Research using 3D scan technologies
 ||
 https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Mobility|Research which helps blind people walk in the real-world
 https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Global%20Navigation|Papers that proposed a turn-by-turn navigation system.
@@ -49,13 +50,12 @@ https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Screen%20Reader|Pa
 https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Web%20Accessibility|Research about web interface 
 https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Captioning|Research about Captioning
 https://github.com/Wotipati/Blind_Accessibility_Papers/labels/RSA|Research about Remote Sighted Assistance
+https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Sports|Research about Sports Asistance
 ||
 https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Survey%20Paper|A survey paper about assistive technologies for visual impairments
 https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Investigation%2FDiscussion|A paper which discussed or investigated blind people's experience
 https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Low%20Vision|A paper which proposed an assistive system for people with low-vision 
 https://github.com/Wotipati/Blind_Accessibility_Papers/labels/TVI|Research for Teachers of the Visually Impaired (TVI)
-https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Scan%203D|Research using 3D scan technologies
-https://github.com/Wotipati/Blind_Accessibility_Papers/labels/Sports|Research about Sports Asistance
 
 Lable| Conference/Journal Name 
 -------|------
