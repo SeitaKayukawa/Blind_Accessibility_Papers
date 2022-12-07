@@ -13,6 +13,7 @@ I will continue to add new papers in the future.
 
 ## What’s New: 
 - 2022.12.7: We added [20 papers published in ASSETS '22](https://github.com/Wotipati/Blind_Accessibility_Papers/issues?q=is%3Aopen+label%3AASSETS%2CTACCESS+label%3A2022+)! :)
+- 2021.5.10: We added [18 papers published in CHI '22](https://github.com/Wotipati/Blind_Accessibility_Papers/issues?q=is%3Aissue+is%3Aopen+label%3A2022+label%3ACHI)! :D
 - 2021.11.2: We added [15 papers published in ASSETS '21](https://github.com/Wotipati/Blind_Accessibility_Papers/issues?q=is%3Aopen+label%3AASSETS+label%3A2021)
 - 2021.7.6: We added [28 papers published in CHI '21](https://github.com/Wotipati/Blind_Accessibility_Papers/issues?q=is%3Aissue+is%3Aopen+label%3ACHI+label%3A2021) :)
 - 2020.10.31: We added [21 papers published in ASSETS '20](https://github.com/Wotipati/Blind_Accessibility_Papers/issues?q=is%3Aissue+is%3Aopen+label%3AASSETS+label%3A2020)!
