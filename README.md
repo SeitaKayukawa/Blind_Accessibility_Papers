@@ -43,13 +43,14 @@ https://github.com/SeitaKayukawa/Blind_Accessibility_Papers/labels/Screen%20Read
 https://github.com/SeitaKayukawa/Blind_Accessibility_Papers/labels/Web%20Accessibility|Research about web interface 
 https://github.com/SeitaKayukawa/Blind_Accessibility_Papers/labels/Captioning|Research about Captioning
 https://github.com/SeitaKayukawa/Blind_Accessibility_Papers/labels/RSA|Research about Remote Sighted Assistance
-https://github.com/SeitaKayukawa/Blind_Accessibility_Papers/labels/Sports|Research about Sports Asistance
+https://github.com/SeitaKayukawa/Blind_Accessibility_Papers/labels/Sports|Research about Sports Assistance
 ||
 https://github.com/SeitaKayukawa/Blind_Accessibility_Papers/labels/Survey%20Paper|A survey paper about assistive technologies for visual impairments
 https://github.com/SeitaKayukawa/Blind_Accessibility_Papers/labels/Investigation%2FDiscussion|A paper which discussed or investigated blind people's experience
 https://github.com/SeitaKayukawa/Blind_Accessibility_Papers/labels/Case%20Study|A detailed study of a specific subject, such as a person, group or event
 https://github.com/SeitaKayukawa/Blind_Accessibility_Papers/labels/Low%20Vision|A paper which proposed an assistive system for people with low-vision 
 https://github.com/SeitaKayukawa/Blind_Accessibility_Papers/labels/TVI|Research for Teachers of the Visually Impaired (TVI)
+https://github.com/SeitaKayukawa/Blind_Accessibility_Papers/labels/VE%Navigation|Navigation within a virtual environment
 
 Lable| Conference/Journal Name 
 -------|------
