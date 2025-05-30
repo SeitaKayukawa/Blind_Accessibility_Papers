@@ -50,7 +50,7 @@ https://github.com/SeitaKayukawa/Blind_Accessibility_Papers/labels/Investigation
 https://github.com/SeitaKayukawa/Blind_Accessibility_Papers/labels/Case%20Study|A detailed study of a specific subject, such as a person, group or event
 https://github.com/SeitaKayukawa/Blind_Accessibility_Papers/labels/Low%20Vision|A paper which proposed an assistive system for people with low-vision 
 https://github.com/SeitaKayukawa/Blind_Accessibility_Papers/labels/TVI|Research for Teachers of the Visually Impaired (TVI)
-https://github.com/SeitaKayukawa/Blind_Accessibility_Papers/labels/VE%Navigation|Navigation within a virtual environment
+https://github.com/SeitaKayukawa/Blind_Accessibility_Papers/labels/VE%20Navigation|Navigation within a virtual environment
 
 Lable| Conference/Journal Name 
 -------|------
